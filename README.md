@@ -1,10 +1,13 @@
 ## Hi there 👋 I'm Mahsa
 
-💻 Front-End Developer
 
-🚀 Working with HTML, CSS, JavaScript & React.
+I'm a Front-End Developer passionate about building modern, responsive, and user-friendly web applications.
 
-🌱 Passionate about building modern, responsive, and user-friendly websites.
+### 🛠️ Tech Stack
 
-✨ Always learning and growing.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github,vscode" />
+</p>
+
+
 
